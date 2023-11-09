@@ -5,7 +5,7 @@ We will use data from the Chicago Department of Public Health to build a model t
 
 Pandas
 
-numpy111
+numpy
 
 sklearn
 
